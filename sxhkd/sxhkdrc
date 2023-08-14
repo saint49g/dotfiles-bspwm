@@ -23,7 +23,7 @@ super + shift + f
 
 # nitrogen
 super + n
-	
+	nitrogen
 
 # take a screenshot
 alt + p
