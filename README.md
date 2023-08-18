@@ -1,5 +1,13 @@
 # Dotfiles for bspwm
 [Wallpaper](https://github.com/saint49g/dotfiles-arch-bspwm/blob/main/0225.jpg)
+## compositor
+```
+picom
+```
+## bar
+```
+polybar
+```
 ## terminal emulator
 ```
 kitty
