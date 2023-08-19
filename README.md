@@ -24,6 +24,7 @@ maim - screenshot tool
 playerctl - utility for controlling media players 
 brightnessctl - utility for controlling brightness
 pamixer - utility for controlling volume
+pavucontrol - PulseAudio Volume Control
 ```
 
 
