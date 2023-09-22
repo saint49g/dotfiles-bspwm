@@ -1,5 +1,5 @@
 # Dotfiles for bspwm
-[Wallpaper](https://github.com/saint49g/dotfiles-arch-bspwm/blob/main/0173.jpg)
+[Wallpaper](https://github.com/saint49g/dotfiles-bspwm/blob/main/0174.jpg)
 ## compositor
 ```
 picom
