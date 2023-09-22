@@ -33,9 +33,9 @@ theme - Dracula
 cursor theme - Colloid cursors
 icons - zafiro nord balck
 ```
-![1694951272](https://github.com/saint49g/dotfiles-bspwm/assets/131678603/5f3808e5-06ea-409f-88db-96c4fc46c01d)
+![1695317779](https://github.com/saint49g/dotfiles-bspwm/assets/131678603/8d59aede-f415-4cda-aca3-c952f32a1be2)
+![1695361044](https://github.com/saint49g/dotfiles-bspwm/assets/131678603/dccf254a-f582-4825-999e-dbd3f6edc483)
 
-![1694951178](https://github.com/saint49g/dotfiles-bspwm/assets/131678603/3d1013ef-0451-4433-a99c-b78bc8a9776e)
 
 
 
